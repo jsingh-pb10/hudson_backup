@@ -1,0 +1,20 @@
+name: celltype
+channels:
+  - conda-forge
+  - bioconda  
+  - defaults
+dependencies:
+  - r-base
+  - r-tidyverse
+  - mamba
+  - r-seurat
+  - ca-certificates
+  - certifi
+  - openssl
+  - r-argparse
+  - r-essentials
+  - bioconductor-cytotree
+  - bioconductor-sva
+  - bioconductor-genomeinfodbdata
+  - gcc
+  - r-hdf5r
